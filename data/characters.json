@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Nuevo nombre del estudio"
+  },
+  {
+    "id": 3,
+    "name": "pistolero de el oeste   ",
+    "animeId": 3
+  },
+  {
+    "id": 3,
+    "name": "personaje nuevo",
+    "animeId": 3
+  }
+]

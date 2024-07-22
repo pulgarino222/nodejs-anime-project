@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "title": "Pichachú",
+    "genre": "Lucha",
+    "studioId": 2
+  },
+  {
+    "id": 2,
+    "title": "Pichachú",
+    "genre": "Lucha",
+    "studioId": 3
+  },
+  {
+    "id": 3,
+    "title": "el chavo",
+    "genre": "Lucha",
+    "studioId": 1
+  },
+  {
+    "id": 4,
+    "title": "mucha lucha",
+    "genre": "Lucha",
+    "studioId": 3
+  },
+  {
+    "id": 5,
+    "title": "ranma 1/2",
+    "genre": "Lucha",
+    "studioId": 1
+  },
+  {
+    "id": 6,
+    "title": "otro show mas ",
+    "genre": "terror",
+    "studioId": 2
+  }
+]
